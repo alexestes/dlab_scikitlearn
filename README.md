@@ -1,3 +1,3 @@
-# dlab_scikitlearn
+# Machine Learning in Python
 
-## intro to using scikitlearn for the UC Berkeley D-Lab
+Workshop for UC Berkeley's D-Lab introducing students to Python's scikit-learn library.
